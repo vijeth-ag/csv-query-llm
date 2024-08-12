@@ -33,9 +33,3 @@ if file is not None:
         )
 
         st.write(completion.choices[0].message.content)
-
-
-
-
-
-
